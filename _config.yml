@@ -30,9 +30,9 @@ navbar-links:
   Resources: 
     - Quizlet : "quizlet"
   Cv's : 
-  - Summary : <p class="text">
+  - <p class="text">
 <a href="https://www.google.com/"><span class="fa fa-lightbulb-o  icon-background2"></span></a>
-<b> Pro Tip</b></p>
+<b> Pro Tip</b></p> : "sumamary"  
   - Resume : "resume"
   Tag index : "tags"
   
