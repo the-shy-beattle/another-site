@@ -1,0 +1,21 @@
+
+{
+  font-size: 19px;
+}
+
+.text {
+  position: relative;
+  margin-left: 24px;
+}
+.icon {
+font-size: 30px;
+}
+.icon-background1 {
+    color: #FFFFFF;
+}
+.icon-background2 {
+    color: #CED4DA;
+}  
+.fa-lightbulb-o:hover {
+    color: #FBBC04;
+}
