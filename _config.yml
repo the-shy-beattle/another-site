@@ -1,8 +1,4 @@
 # --- General options --- #
----
-layout: page
-css: "/css/nerd.css"
----
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
